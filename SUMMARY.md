@@ -1,6 +1,6 @@
 # Summary
 
 * [簡介](README.md)
-* [目標](CH00.md)
+* [目標](00.md)
 * [安裝 Laravel 5](01.md)
 
