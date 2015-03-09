@@ -10,7 +10,7 @@ Jace Ju (jaceju) / 大澤木小鐵
 
 ## 說明
 
-本書為 Laravel 5 TDD 開發基礎
+本書介紹 Laravel 5 TDD 開發基礎，讀者需具備有 Laravel 5 基本開發知識。
 
 ## 版權
 
