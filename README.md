@@ -10,7 +10,7 @@ Jace Ju (jaceju) / 大澤木小鐵
 
 ## 說明
 
-本書為作者於成功大學教授 《PHPUnit 入門與實作》課程之講義，介紹 PHPUnit 基礎入門與測試實戰心得。
+本書為 Laravel 5 TDD 開發基礎
 
 ## 版權
 
