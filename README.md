@@ -10,16 +10,4 @@
 
 之所以會想寫這本電子書，就是因為我想透過 Laravel 5 去實現自己所體會到關於 TDD 的知識與技巧，並且記錄下我所得到的心得。希望這本書能夠帶給各位一些啟發，進而理解 TDD 與 Laravel 5 ，讓你在開發上有更不一樣的樂趣。
 
-## 作者
-
-Jace Ju (jaceju) / 大澤木小鐵
-
-* 《 PHP Smarty 樣版引擎》作者
-* 現任 KKBOX 網站開發部資深工程師
-* 個人部落格：[網站製作學習誌](http://www.jaceju.net/)
-
-## 版權
-
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="創用 CC 授權條款" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a>
-
-<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">《Laravel 5 中的 TDD 觀念與實戰》</span>由<a xmlns:cc="http://creativecommons.org/ns#" href="http://www.jaceju.net/" property="cc:attributionName" rel="cc:attributionURL"> Jace Ju </a>製作，以<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">創用 CC 姓名標示-非商業性-禁止改作 4.0 國際 授權條款</a>釋出。
+這本書持續撰寫中，部份內容可能會視 Laravel 的版本更新而調整。

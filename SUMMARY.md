@@ -1,6 +1,8 @@
 # 目錄
 
 * [簡介](README.md)
+ * [作者](Author.md)
+ * [版權](License.md)
 * [目標](00.md)
 * [安裝 Laravel 5](01.md)
 * [Model](02.md)
